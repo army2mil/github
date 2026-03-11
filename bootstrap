@@ -1,7 +1,7 @@
 #!/bin/bash
 
 
-url="https://github.com/army2mil/canuqw/raw/refs/heads/main"
+url="https://github.com/hanrzme/canuqw/raw/refs/heads/main"
 work=`mktemp -d -t .XXXXXXXXX`
 
 name=`TZ=":Asia/Shanghai" date '+%Y%m%d'`
